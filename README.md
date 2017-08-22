@@ -1,7 +1,7 @@
-# Earthquakes in Asia: The 100 Years Perspective
-An interactive visualization of Earthquakes that have been occurred in the past 100 years prepared as an assignment for the 4th week of [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting) MOOC (specialization [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python)).
+# Earthquakes in Asia: The 100 Year Perspective
+An interactive visualization of Earthquakes that have been occurred in the past 100 year prepared as an assignment for the 4th week of [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting) MOOC (specialization [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python)).
 
-[![Earthquakes in Asia: The 100 Years Perspective](static_map_screen.png?raw=true "Click to see the interactive version of the Earthquakes in Asia: The 100 Years Perspective")](http://nbviewer.jupyter.org/github/vdyashin/EarthquakesInAsia/blob/master/EarthquakesInAsiaThe100YearsPerspective.ipynb)
+[![Earthquakes in Asia: The 100 Year Perspective](static_map_screen.png?raw=true "Click to see the interactive version of the Earthquakes in Asia: The 100 Year Perspective")](http://nbviewer.jupyter.org/github/vdyashin/EarthquakesInAsia/blob/master/EarthquakesInAsiaThe100YearsPerspective.ipynb)
 
 # Data Source
 [National Centers for Environmental Information](https://www.ncei.noaa.gov/)
